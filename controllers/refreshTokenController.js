@@ -1,5 +1,4 @@
 const userDB = {
-    users: require("../model/myUsers.json"),
     setMyUsers: function (data) { this.users = data }
 }
 const jwt = require("jsonwebtoken");
