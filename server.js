@@ -17,7 +17,8 @@ const whitelist = [
     'https://www.thewebsitedomain.com',
     'http://devwebsite:portnumber',
     'http://localhost:3500',
-    'https://claude.ai'
+    'https://claude.ai',
+    'https://localhost:5173'
 ];
 
 const corsOptions = {
